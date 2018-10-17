@@ -90,6 +90,12 @@ h7{
     margin-top: 40px;
     position: relative; 
     -webkit-animation:bounce 0.7s infinite;
+    font-size: 18px;
+    color: #7a7a7a;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    float: left;
+    text-decoration:none;
+    max-width: 250px;
 }
 
 @-webkit-keyframes bounce {
