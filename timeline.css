@@ -484,7 +484,7 @@ hr {
 
 .bottomnav{
     margin-top: 40px;
-    margin-bottom: 0px;
+    margin-bottom: 60px;
     max-width: 220px;
     position: relative;
     float: left;
@@ -493,7 +493,7 @@ hr {
 
 .navlist{
     margin-top:40px;
-    margin-bottom: 0px;
+    margin-bottom: 60px;
     max-width: 250px;
     float: left;
     position: relative;
@@ -502,7 +502,7 @@ hr {
 
 .backtop{
     margin-top: 40px;
-    margin-bottom: 0px;
+    margin-bottom: 120px;
     max-width: 100px;
     float: left;
     position: relative;
