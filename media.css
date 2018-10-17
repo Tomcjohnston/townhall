@@ -1,0 +1,177 @@
+@media screen and (min-width: 0px) and (max-width: 480px) {
+    
+    
+    .leftcontainer{
+        margin-left: 3vw;
+    }
+
+    h1{
+        font-size: 45px;
+        line-height: -0.7em;
+    }
+    
+    .title{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    max-width: 200px;
+}
+    
+    h2{
+        font-size: 30px;
+        line-height: 1.2em;
+        width: 90%;
+    }
+
+
+    h3 {
+        font-size: 150px;
+    }
+    
+    h4{
+        font-size: 70px;
+        line-height: -0.04em;
+        margin-top: 8vh; 
+    }
+
+.pagetitle{
+    margin-top:10px;
+    margin-bottom: 50px;
+}
+
+h9{
+    font-size:50px;
+}
+
+.email{
+    max-width: 70vw;
+        
+}
+    
+input{
+    font-size: 30px;
+    margin-left: 0vw;
+    }
+
+h12{
+    font-size: 50px;
+}
+    
+   
+
+p{
+    font-size: 20px;
+    line-height: inherit;
+    width: 90%;
+}
+
+img{
+    max-width: 80vw;    
+}
+    
+      
+
+.indentleft{
+    max-width: 90%;
+    margin-left: 0;
+    margin-top: 20px;
+}
+    
+.indentsub{
+    max-width: 67vw;
+    margin-left: 0;
+    margin-top: 50px;
+}
+    
+.indentsub1{
+    max-width: 90vw;
+    margin-left: 0;
+    margin-top: 50px;
+}
+
+.timelineindent{
+    display: none;
+}
+
+.timeline{
+    display: none;
+}
+
+.firsth1{
+    font-size: 85px;
+
+}
+
+.smallindentleft{
+    position: relative;
+    max-width: 100vw;
+    margin-top: 10px;
+}
+
+.menubar-events{
+    margin-left: 30vw;
+    left: 0;
+}
+
+hr{
+    margin-left: 2vw;
+    width: 95%;
+}
+
+.bottomnav{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    max-width: 90%;
+    position: relative;
+    margin-left: 2vw;
+    
+}
+
+.navlist{
+    max-width: 90%;
+    position: relative;
+    margin-left: 2vw;
+    margin-top: 2vh;
+}
+
+.backtop{
+    max-width: 100%;
+    position: relative;
+    float: right;
+    margin-top: 1vh;
+    margin-bottom: 2vh;
+}
+    
+    .licencecontent{
+    max-width: 60%;
+    margin-left: 2vw; 
+    position: relative;
+    bottom: 2vh;
+    font-size: 12px;
+
+}
+
+.bottommobile{
+    display: inherit;
+    margin-bottom: 25vh;
+}
+    
+.bounce{
+    display: none;
+}
+    
+    h7{
+        display: none;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
